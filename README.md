@@ -1,9 +1,6 @@
 # ncat 
 
 * ***connect to tcp/udp***
-*  ***check if a port open or closed***
-*  ***read a banner from a service Listening on a port***
-*  ***connect to a service manually***
 
 ```shell
 nc -nv 192.168.10.1 22 
