@@ -1,4 +1,4 @@
-# ncat 
+# netcat 
 
 * ***connect to tcp/udp***
 
