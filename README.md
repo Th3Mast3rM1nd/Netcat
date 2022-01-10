@@ -70,3 +70,6 @@ nc -nvz -w3 10.10.10.10 100-120  # 100-120 ip range
 ```
 <img width="615" alt="Screen Shot 2021-12-04 at 13 24 58" src="https://user-images.githubusercontent.com/92652606/144709287-90d66ec8-948e-4dfd-b978-5b9b6eff4d2e.png">
 
+```shell
+nc -nvz -u -w1 10.10.10.10 53-102 # udp
+```
